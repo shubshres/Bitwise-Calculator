@@ -1,4 +1,3 @@
-/* Shubhayu Shrestha 1001724804 */
 #include <stdio.h>
 #define BITS 8
 
